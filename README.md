@@ -1,14 +1,14 @@
 # AI Study Mentor
 
 Main project files are in:
-- `Campus_X/LangGraph/projects/`
+- `ai-study-tutor/`
 
 Project documentation:
-- `Campus_X/LangGraph/projects/README.md`
+- `ai-study-tutor/README.md`
 
 Quick start:
 ```bash
-cd Campus_X/LangGraph/projects
+cd ai-study-tutor
 pip install -r requirements.txt
 streamlit run app.py
 ```
